@@ -22,6 +22,7 @@
 
 </head>
 <?php
+echo "hello php";
 include_once 'dbConnection.php';
 ?>
 <body>
